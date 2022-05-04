@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #dddddd;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#project">project</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+<img src ="https://starsunfolded.com/wp-content/uploads/2016/09/naga-chaitanya.jpg" alt="LA">
+<P>Akkineni Naga Chaitanya is an Indian actor who primarily works in Telugu cinema. He made his acting debut with Josh and his breakthrough came with Gautham Vasudev Menon-directed Ye Maaya Chesave. He has established himself as one of the leading actors in Telugu cinema. </P>
+</body>
+</html>
